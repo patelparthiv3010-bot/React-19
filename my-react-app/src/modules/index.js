@@ -1,0 +1,17 @@
+export const modules = [
+  { id: 1, title: "JavaScript Prerequisites", topics: ["Variables","Data types","Functions","Arrow functions","Arrays and objects","Array methods","Destructuring","Spread and rest","Template literals","Import/export","Promises","Async/await","Fetch API","ES6 modules"] },
+  { id: 2, title: "React Fundamentals", topics: ["What is React?","Why React?","Features","React vs JS","Architecture","Virtual DOM","Real vs Virtual DOM","SPA","Installation","Vite setup","Project structure","index.html","main.jsx","App.jsx"] },
+  { id: 3, title: "JSX", topics: ["What is JSX?","Syntax","Expressions","Attributes","Rules","JS in JSX","Conditional rendering","Lists","Fragments","Styling JSX"] },
+  { id: 4, title: "Components", topics: ["Components","Functional","Structure","Naming","Reusable","Nested","Parent/child","Composition","Props","Destructuring","Default props","Children"] },
+  { id: 5, title: "Hooks", topics: ["useState","useEffect","useContext","useRef","useReducer","useMemo","useCallback","Custom Hooks","Rules of Hooks"] },
+  { id: 6, title: "Events & Forms", topics: ["Click","onChange","onSubmit","Event objects","Arguments","Controlled","Uncontrolled","Validation","Login","Registration","Search"] },
+  { id: 7, title: "Conditional & Lists", topics: ["if/else","Ternary","Logical AND","map","filter","Dynamic lists","Keys","CRUD"] },
+  { id: 8, title: "Styling", topics: ["CSS sheets","Inline","Modules","Conditional","Dynamic classes","Bootstrap","Tailwind"] },
+  { id: 9, title: "React Router", topics: ["Router","Install","BrowserRouter","Routes","Route","Link","NavLink","useNavigate","useParams","useLocation","Nested","Protected","404"] },
+  { id: 10, title: "API Integration", topics: ["API","HTTP methods","GET","POST","PUT","PATCH","DELETE","Fetch","Axios","Loading","Errors","Rendering","CRUD API","Env vars"] },
+  { id: 11, title: "State Management", topics: ["Local","Global","Props drilling","Context","useReducer","Redux Toolkit","Zustand"] },
+  { id: 12, title: "Advanced", topics: ["Lifecycle","Re-rendering","memo","Lazy","Suspense","Code splitting","Error boundaries","Performance","Custom hooks","Portals","Refs","StrictMode"] },
+  { id: 13, title: "Auth", topics: ["Login/logout","Registration","JWT","Flow","Protected routes","RBAC","Token handling","Backend"] },
+  { id: 14, title: "Backend", topics: ["Node","Express","MongoDB","REST","Auth API","CRUD","MERN"] },
+  { id: 15, title: "Testing & Deploy", topics: ["DevTools","Debugging","Unit","Component tests","Build","Production","Vercel","Netlify","Git/GitHub"] },
+];
